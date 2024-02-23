@@ -1,8 +1,7 @@
 ### Olá, Eu sou Anselmo Nascimento
 
 - 🔭 Cursanto Análise e desenvolvimento de sistemas.
-- 🌱 Estudando front-end
-
+- 🌱 Desenvolvedor Web
 
 
 <div  align="center" style="margin-bottom:100px">
