@@ -1,7 +1,7 @@
 ### Olá, Eu sou Anselmo Nascimento
 
 - 🔭 Cursanto Análise e desenvolvimento de sistemas.
-- 🌱 Desenvolvedor Web
+- 🌱 Desenvolvedor Back-End
 
 
 <div  align="center" style="margin-bottom:100px">
@@ -18,7 +18,7 @@
 
 #### Main Stack:
 
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -33,7 +33,7 @@
 ## Contacts:
 
 <div> 
-<a href = "mailto:anselmo05.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:anselmonascimento078@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anselmo-nascimento-265734271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
