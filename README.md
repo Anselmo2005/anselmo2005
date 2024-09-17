@@ -1,6 +1,6 @@
 ### Olá, Eu sou Anselmo Nascimento
 
-- 🔭 Cursanto Análise e desenvolvimento de sistemas.
+- 🔭 Cursando Análise e desenvolvimento de sistemas.
 - 🌱 Desenvolvedor Back-End
 
 
